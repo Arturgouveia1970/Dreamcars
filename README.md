@@ -41,13 +41,10 @@ A modern car rental web app built with WordPress, featuring real-time booking, S
 ![Home](https://raw.githubusercontent.com/Arturgouveia1970/Dreamcars/main/screenshots/home.png)
 
 ### 🚗 Car Listing
-![Cars](https://raw.githubusercontent.com/Arturgouveia1970/Dreamcars/main/screenshots/cars.png)
-
-### 📄 Car Details Page
-![Car Detail](https://raw.githubusercontent.com/Arturgouveia1970/Dreamcars/main/screenshots/car-detail.png)
+![Cars](https://raw.githubusercontent.com/Arturgouveia1970/Dreamcars/main/screenshots/car-page.png)
 
 ### 💳 Booking Checkout
-![Checkout](https://raw.githubusercontent.com/Arturgouveia1970/Dreamcars/main/screenshots/checkout.png)
+![Checkout](https://raw.githubusercontent.com/Arturgouveia1970/Dreamcars/main/screenshots/booking.png)
 
 ---
 
