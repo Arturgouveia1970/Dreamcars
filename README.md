@@ -1,60 +1,67 @@
 # 🚗 DreamCars
 
-![GitHub stars](https://img.shields.io/github/stars/Arturgouveia1970/Dreamcars?style=social)
+![Status](https://img.shields.io/badge/status-demo-green)
+![Stripe](https://img.shields.io/badge/stripe-test_mode-blue)
+![Stack](https://img.shields.io/badge/wordpress-php-blue)
 
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
-
-A modern car rental web app built with WordPress, featuring real-time booking, Stripe payments, and a clean user experience.
+A modern car rental web app built with WordPress + Stripe integration, featuring real-time booking and payment flow.
 
 ---
 
-## ✨ Features
+## 🌐 Live Demo
 
-* 🚘 Custom **Car catalog** (CPT)
-* 📄 Individual car pages with full specs
-* 📅 Date-based booking system
-* 💳 Stripe Checkout integration
-* ⚡ Real-time price calculation
-* ❌ Double-booking prevention (paid bookings)
-* 🌙 Dark mode UI
-* 📱 Responsive design
+👉 https://pendant-bill-garmin-locale.trycloudflare.com
 
----
-
-## 🛠 Tech Stack
-
-* WordPress (Custom Theme)
-* PHP
-* JavaScript (Vanilla)
-* Stripe API
-* ACF (Advanced Custom Fields)
+⚠️ This is a **test environment** (Stripe test mode enabled)  
+Use Stripe test card: `4242 4242 4242 4242`
 
 ---
 
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](https://raw.githubusercontent.com/Arturgouveia1970/Dreamcars/main/screenshots/home.png)
+<p align="center">
+  <img src="./screenshots/home.png" width="100%" />
+</p>
 
-### 🚗 Car Listing
-![Cars](https://raw.githubusercontent.com/Arturgouveia1970/Dreamcars/main/screenshots/car-page.png)
+### 🚗 Car Details
+<p align="center">
+  <img src="./screenshots/car-page.png" width="100%" />
+</p>
 
-### 💳 Booking Checkout
-![Checkout](https://raw.githubusercontent.com/Arturgouveia1970/Dreamcars/main/screenshots/booking.png)
+### 📅 Booking System
+<p align="center">
+  <img src="./screenshots/booking.png" width="100%" />
+</p>
 
 ---
 
-## ⚙️ Installation (Local)
+## ✨ Features
 
-1. Clone the repo:
+- 🚗 Browse available cars
+- 📅 Date-based booking system
+- 💳 Stripe checkout integration
+- ⚡ Real-time price calculation
+- 🔒 Booking conflict prevention (no double booking)
+- 🌙 Responsive design (mobile + desktop)
 
+---
+
+## 🛠 Tech Stack
+
+- WordPress (PHP)
+- JavaScript
+- Stripe API
+- MySQL
+- HTML / CSS
+
+---
+
+## ⚙️ Local Setup
+
+1. Clone repository
 ```bash
 git clone https://github.com/Arturgouveia1970/Dreamcars.git
-```
 
 2. Place theme inside:
 
