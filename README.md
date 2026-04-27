@@ -89,6 +89,7 @@ wp-content/themes/
 
 ```bash
 composer install
+
 ```
 
 4. Configure Stripe key in `wp-config.php`:
