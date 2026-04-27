@@ -10,7 +10,9 @@ A modern car rental web app built with WordPress + Stripe integration, featuring
 
 ## 🌐 Live Demo
 
-👉 https://pendant-bill-garmin-locale.trycloudflare.com
+⚠️ Live demo is temporarily unavailable (uses ephemeral tunnel)
+
+👉 Run locally using setup instructions below
 
 ⚠️ This is a **test environment** (Stripe test mode enabled)  
 Use Stripe test card: `4242 4242 4242 4242`
@@ -24,7 +26,11 @@ Use Stripe test card: `4242 4242 4242 4242`
   <img src="./screenshots/home.png" width="100%" />
 </p>
 
+<<<<<<< HEAD
 ### 🚗 Car Details | 📅 Booking System
+=======
+### 🚗 Car Details  &  📅 Booking System
+>>>>>>> 0eecae8 (Move and update README)
 <p align="center">
   <img src="./screenshots/car-page.png" width="100%" />
 </p>
@@ -35,6 +41,10 @@ Use Stripe test card: `4242 4242 4242 4242`
 </p>
 
 ---
+
+## 🎯 Project Purpose
+
+DreamCars is a car rental booking platform built to simulate a real-world rental system with payment processing, availability control, and admin management.
 
 ## ✨ Features
 
@@ -49,11 +59,20 @@ Use Stripe test card: `4242 4242 4242 4242`
 
 ## 🛠 Tech Stack
 
+**Backend**
 - WordPress (PHP)
-- JavaScript
-- Stripe API
 - MySQL
+
+**Frontend**
+- JavaScript
 - HTML / CSS
+
+**Payments**
+- Stripe Checkout API (test mode)
+
+**Infrastructure**
+- Local WordPress environment
+- Cloudflare Tunnel (dev demo)
 
 ---
 
@@ -67,6 +86,7 @@ git clone https://github.com/Arturgouveia1970/Dreamcars.git
 
 ```
 wp-content/themes/
+
 ```
 
 3. Install dependencies:
