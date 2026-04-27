@@ -26,11 +26,7 @@ Use Stripe test card: `4242 4242 4242 4242`
   <img src="./screenshots/home.png" width="100%" />
 </p>
 
-<<<<<<< HEAD
-### 🚗 Car Details | 📅 Booking System
-=======
 ### 🚗 Car Details  &  📅 Booking System
->>>>>>> 0eecae8 (Move and update README)
 <p align="center">
   <img src="./screenshots/car-page.png" width="100%" />
 </p>
