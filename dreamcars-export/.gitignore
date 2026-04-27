@@ -1,0 +1,10 @@
+wp-config.php
+.env
+node_modules/
+.DS_Store
+*.log
+wp-content/uploads/vendor/
+vendor/
+wp-config.php
+wp-config.php
+vendor/
