@@ -24,12 +24,12 @@ Use Stripe test card: `4242 4242 4242 4242`
   <img src="./screenshots/home.png" width="100%" />
 </p>
 
-### 🚗 Car Details
+### 🚗 Car Details | 📅 Booking System
 <p align="center">
   <img src="./screenshots/car-page.png" width="100%" />
 </p>
 
-### 📅 Booking System
+###  💳 Stripe checkout integration
 <p align="center">
   <img src="./screenshots/booking.png" width="100%" />
 </p>
